@@ -25,3 +25,8 @@ I am a 16 year-old girl, who is interested in computers and how it impacts the w
 1. SEP
     * Command Line
     * GitHub
+2. Honors English
+    * Read _The Crucible_ by Arthur Miller
+    * Read _The Scarlet Letter_ by Nathaniel Hawthorne 
+
+
