@@ -26,7 +26,12 @@ I am a 16 year-old girl, who is interested in computers and how it impacts the w
     * Command Line
     * GitHub
 2. Honors English
-    * Read _The Crucible_ by Arthur Miller
-    * Read _The Scarlet Letter_ by Nathaniel Hawthorne 
-
+    * _The Crucible_ by Arthur Miller
+    * _The Scarlet Letter_ by Nathaniel Hawthorne 
+3. AP US History
+    * Chapters 1-5 from _American History_ by Alan Brinkley
+    * American Independence
+    * _The Life and Adventures of Buffalo Bill_ by Colonel William F. Cody
+    * _The Frontier in American History_ by Frederick Jackson Turner
+    * _A People's History of the United States_ by Howard Zinn 
 
