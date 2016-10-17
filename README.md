@@ -36,7 +36,7 @@ I am a 16 year-old girl, who is interested in computers and how it impacts the w
     * _A People's History of the United States_ by Howard Zinn 
 4. Algebra 2
     * Unit 1
-        * Function family review (general shape, key Features, etc.)
+        * Function family review (general shape, key features, etc.)
         * Mathematical models illustrate the behavior of real world situations
         * Functions can be represented in multiple, equivalent ways
         * Inverse of a function
