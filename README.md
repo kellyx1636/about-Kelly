@@ -22,3 +22,6 @@ I am a 16 year-old girl, who is interested in computers and how it impacts the w
 
 -----
 #### What Have I Learned In These Classes So Far?
+1. SEP
+    * Command Line
+    * GitHub
