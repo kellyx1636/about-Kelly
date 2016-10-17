@@ -3,7 +3,7 @@
 
 #### [High School of Telecommunications Arts and Technology](www.hstat.org)
 
-### Bio: 
+#### Bio: 
 I am a 16 year-old girl, who is interested in computers and how it impacts the world. I believe that I started using a computer when I was 8 and I did not know how the background work that it involved. Ever since I signed up for SEP, I discovered the different proramming languages that can be used for many purposes. I plan on expanding my knowledge of computer science in college. 
 
 #### Schedule:
@@ -20,3 +20,5 @@ I am a 16 year-old girl, who is interested in computers and how it impacts the w
 |     8     | Chemistry or Study Hall               |
 |     9     | Gym (only on Tuesdays and Wednesdays) |  
 
+-----
+#### What Have I Learned In These Classes So Far?
