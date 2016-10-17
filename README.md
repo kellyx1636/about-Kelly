@@ -40,5 +40,11 @@ I am a 16 year-old girl, who is interested in computers and how it impacts the w
         * Mathematical models illustrate the behavior of real world situations
         * Functions can be represented in multiple, equivalent ways
         * Inverse of a function
+5. Spanish 5
+    * Summer related verbs
+    * Conjugation of -AR, -ER, and -IR verbs
+    * Names of certain food in Spanish
+    * How to say certain type of weathers 
+
 
 
