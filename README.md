@@ -20,9 +20,3 @@ I am a 16 year-old girl, who is interested in computers and how it impacts the w
 |     8     | Chemistry or Study Hall               |
 |     9     | Gym (only on Tuesdays and Wednesdays) |  
 
-Food
-+ Chips
-+ Noodles
-+ 
-
-Animals
