@@ -8,16 +8,16 @@ I am a 16 year-old girl, who is interested in computers and how it impacts the w
 
 #### Schedule:
 
-|  Period # |               Subject                 |
+|  Period # |               Subjects                |
 |-----------|:-------------------------------------:|
-|     1     |   SEP                                 |
+|     1     | SEP                                   |
 |     2     | Honors English                        |
 |     3     | AP US History                         |
 |     4     | Algebra 2                             |
 |     5     | Spanish 5                             |
 |     6     | Lunch                                 |
-|     7     | Chemistry or Study Hall               |
-|     8     | Chemistry or Study Hall               |
+|     7     | AP Chemistry or Study Hall            |
+|     8     | AP Chemistry or Study Hall            |
 |     9     | Gym (only on Tuesdays and Wednesdays) |  
 
 -----
