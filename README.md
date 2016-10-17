@@ -34,4 +34,11 @@ I am a 16 year-old girl, who is interested in computers and how it impacts the w
     * _The Life and Adventures of Buffalo Bill_ by Colonel William F. Cody
     * _The Frontier in American History_ by Frederick Jackson Turner
     * _A People's History of the United States_ by Howard Zinn 
+4. Algebra 2
+    * Unit 1
+        * Function family review (general shape, key Features, etc.)
+        * Mathematical models illustrate the behavior of real world situations
+        * Functions can be represented in multiple, equivalent ways
+        * Inverse of a function
+
 
