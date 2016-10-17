@@ -45,6 +45,10 @@ I am a 16 year-old girl, who is interested in computers and how it impacts the w
     * Conjugation of -AR, -ER, and -IR verbs
     * Names of certain food in Spanish
     * How to say certain type of weathers 
-
+6. AP Chemistry
+    * Atoms and the elements
+    * Electrons
+    * The Periodic Table and periodicity
+    * Spectrometry and spectroscopy
 
 
